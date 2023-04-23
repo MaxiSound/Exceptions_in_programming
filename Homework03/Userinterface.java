@@ -6,7 +6,7 @@ public class Userinterface {
         System.out.println("Введите данные пользователя в формате:");
         System.out.println("Фамилия Имя Отчество дата_рождения номер_телефона пол");
         System.out.println("Пол - символ латиницей f или m");
-        System.out.println("Дата_рождения - строка формата dd.MM.yyyy");
+        System.out.println("Дата_рождения - строка формата dd.mm.yyyy");
         System.out.println("Номер_телефона - в формате 79999999999");
         System.out.println("Или введите exit для выхода");
         boolean run = true;
